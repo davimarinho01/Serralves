@@ -264,7 +264,7 @@
             }
         
             .logo{
-                margin-left: 1em;
+                align-items: center;
                 margin-top: 0.5em;
                 width: 200px;
                 height: 200px;
